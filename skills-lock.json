@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "docs-diagrams": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/docs-diagrams/SKILL.md",
+      "computedHash": "75890e80436ba9fd0d8843497abf44ff4388921888ec52af20ddb186513d9870"
+    },
+    "figma-design-to-code": {
+      "source": "figma/mcp-server-guide",
+      "sourceType": "github",
+      "skillPath": "skills/figma-design-to-code/SKILL.md",
+      "computedHash": "67cd02cda36813f140e625d7abb24115df84423ddeeb1eb2afe0906a8f6a15f1"
+    },
+    "figma-generate-design": {
+      "source": "figma/mcp-server-guide",
+      "sourceType": "github",
+      "skillPath": "skills/figma-generate-design/SKILL.md",
+      "computedHash": "ed7da10342885cca2d5b5584ddd4768c4283d28b546a42ac6a1e0966dca2138e"
+    },
+    "figma-generate-diagram": {
+      "source": "figma/mcp-server-guide",
+      "sourceType": "github",
+      "skillPath": "skills/figma-generate-diagram/SKILL.md",
+      "computedHash": "27007744195d6787598e358bd3ff21e966e11cdadd33e048696cbc44da747c35"
+    },
+    "next-bundle-optimizer": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-bundle-optimizer/SKILL.md",
+      "computedHash": "5ff4463d88f33a7d09cdf820684d1f732b97cd40ad0171bc18689d9bdd7614e2"
+    },
+    "next-cache-components-adoption": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-adoption/SKILL.md",
+      "computedHash": "38eb3cb9e625b46b54493459a106ac410bc0fe59b124903d55f5090c959d292f"
+    },
+    "next-cache-components-optimizer": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-optimizer/SKILL.md",
+      "computedHash": "45a4f4ad46ce791d42f310c4734795c9ff4e26fbf27ed0285a43a903ef469000"
+    },
+    "next-dev-loop": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-dev-loop/SKILL.md",
+      "computedHash": "c305c83b726212e0284930c65cded2c4a4ab85f9bfccfa83b62274247fe3580e"
+    },
+    "next-partial-prefetching-adoption": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-adoption/SKILL.md",
+      "computedHash": "e523f1aec1789b3a1f4ca881898d99416427f9d853b3b1841f0e13657bc38f77"
+    },
+    "next-partial-prefetching-optimizer": {
+      "source": "vercel/next.js",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-optimizer/SKILL.md",
+      "computedHash": "97b935496e9f821417229fd4afe153dc57732911991b48144371b15b11716fbe"
+    },
+    "strapi-docs-mcp": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cms/strapi-docs-mcp/SKILL.md",
+      "computedHash": "6660be6fccf1d936731fc485da75e3823e944379bd0493435170b71fafa1638f"
+    },
+    "strapi-mcp-capabilities": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cms/strapi-mcp-capabilities/SKILL.md",
+      "computedHash": "b58fa77cbc38e0bbd63b22941a8e2599e8dccb0fbdf5e2979dfe241c75618360"
+    },
+    "strapi-product-builder": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/strapi-product-builder/SKILL.md",
+      "computedHash": "4a76c3d456610dbef007a6b107e43800bc60c547094bc677d3cdc1606ce740fd"
+    },
+    "strapi-version-upgrade": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cms/strapi-version-upgrade/SKILL.md",
+      "computedHash": "dc9809637c0c6c006ec3a432bcb159c0c36b951934d3c3d041f70ff29e5437d6"
+    }
+  }
+}
